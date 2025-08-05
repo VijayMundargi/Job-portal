@@ -1,5 +1,3 @@
-# Job Portal
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/VijayMundargi/Job-portal)
 
 This is a full-stack web application designed as a job portal. It features a backend built with Node.js and Express, connected to a MongoDB database, and a frontend built with React and Vite. The application supports user registration and login, and displays membership plans.
 
